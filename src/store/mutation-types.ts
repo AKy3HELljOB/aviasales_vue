@@ -1,0 +1,8 @@
+export enum MutationTypes {
+  // SET_COUNTER = 'SET_COUNTER',
+  // RESET_COUNTER = 'RESET_COUNTER',
+  
+  SET_FILTER = 'SET_FILTER',
+  SET_ORDER = 'SET_ORDER',
+  ADD_TICKETS = 'ADD_TICKETS'
+}
